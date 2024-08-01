@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 Connect with me:
 linkedin.com/in/seanpinote
+![icons8-javascript](https://github.com/user-attachments/assets/77226a43-4ea0-4035-a65a-3801c69f68d5)
