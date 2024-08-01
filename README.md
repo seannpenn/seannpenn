@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 
 
 Connect with me:
+![linked-in-alt](https://github.com/user-attachments/assets/f5aca3c4-848f-4182-ad47-bd25d3216c92)
 linkedin.com/in/seanpinote
+
+Language, Tech Stack & Tools:
 ![icons8-javascript](https://github.com/user-attachments/assets/77226a43-4ea0-4035-a65a-3801c69f68d5)
+
